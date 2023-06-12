@@ -52,3 +52,14 @@
 .inner_move_block {
     margin-top: 50px;
 }
+
+.counter_block {
+    background: black;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+h3 {
+padding: 50px}
